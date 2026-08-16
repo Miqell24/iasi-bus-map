@@ -1,0 +1,2579 @@
+{
+  "generatedAt": "2026-08-16T09:13:15.574Z",
+  "bbox": [
+    27.446074,
+    47.065,
+    27.824398,
+    47.28792
+  ],
+  "badgeBands": [
+    [
+      13,
+      13.6
+    ],
+    [
+      13.6,
+      14.4
+    ],
+    [
+      14.4,
+      15.5
+    ],
+    [
+      15.5,
+      16.8
+    ],
+    [
+      16.8,
+      22
+    ]
+  ],
+  "modes": [
+    {
+      "mode": "bus",
+      "label": "buses",
+      "color": "#0059a9"
+    },
+    {
+      "mode": "tram",
+      "label": "trams",
+      "color": "#d6212b"
+    }
+  ],
+  "lines": [
+    {
+      "line": "18",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Str. Mistrețului",
+          "headsign": "Str. Mistrețului",
+          "variants": 1,
+          "tripCount": 32,
+          "stops": 5,
+          "lengthKm": 1.66,
+          "stats": {
+            "observations": 84,
+            "matched": 84,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.800643169552601,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "19",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "C.U.G. I",
+          "variants": 1,
+          "tripCount": 189,
+          "stops": 20,
+          "lengthKm": 9.94,
+          "stats": {
+            "observations": 497,
+            "matched": 497,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.713066169819014,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Canta",
+          "variants": 1,
+          "tripCount": 189,
+          "stops": 19,
+          "lengthKm": 10.04,
+          "stats": {
+            "observations": 488,
+            "matched": 488,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.80542291193834,
+            "roundaboutSegs": 49,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "20",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "METRO",
+          "variants": 1,
+          "tripCount": 159,
+          "stops": 24,
+          "lengthKm": 16.08,
+          "stats": {
+            "observations": 827,
+            "matched": 827,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.1961982797900284,
+            "roundaboutSegs": 125,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Tătărași Sud",
+          "variants": 1,
+          "tripCount": 162,
+          "stops": 22,
+          "lengthKm": 15.33,
+          "stats": {
+            "observations": 779,
+            "matched": 779,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0894469267837277,
+            "roundaboutSegs": 103,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "23",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Primaria Miroslava",
+          "variants": 1,
+          "tripCount": 20,
+          "stops": 11,
+          "lengthKm": 5.99,
+          "stats": {
+            "observations": 301,
+            "matched": 301,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0893447382984736,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Podu Ros",
+          "variants": 1,
+          "tripCount": 26,
+          "stops": 12,
+          "lengthKm": 6.72,
+          "stats": {
+            "observations": 343,
+            "matched": 343,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.4055664209752243,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "23b",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Scoala Proselnici",
+          "variants": 1,
+          "tripCount": 25,
+          "stops": 15,
+          "lengthKm": 12.73,
+          "stats": {
+            "observations": 638,
+            "matched": 638,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.6455573399895218,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Podu Ros (4)",
+          "variants": 1,
+          "tripCount": 19,
+          "stops": 16,
+          "lengthKm": 13.55,
+          "stats": {
+            "observations": 683,
+            "matched": 683,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.699531681078849,
+            "roundaboutSegs": 2,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "27",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Blocuri Ciurea",
+          "variants": 1,
+          "tripCount": 116,
+          "stops": 29,
+          "lengthKm": 12.4,
+          "stats": {
+            "observations": 619,
+            "matched": 619,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0593654076572694,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Tătărași Nord",
+          "variants": 1,
+          "tripCount": 119,
+          "stops": 27,
+          "lengthKm": 12.84,
+          "stats": {
+            "observations": 638,
+            "matched": 638,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0587487124470143,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "28",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Dacia",
+          "variants": 1,
+          "tripCount": 167,
+          "stops": 21,
+          "lengthKm": 10.99,
+          "stats": {
+            "observations": 550,
+            "matched": 550,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.086352516789757,
+            "roundaboutSegs": 27,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Triumf Rond",
+          "variants": 1,
+          "tripCount": 167,
+          "stops": 21,
+          "lengthKm": 10.81,
+          "stats": {
+            "observations": 539,
+            "matched": 539,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.203991625568478,
+            "roundaboutSegs": 39,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "29",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Tomești",
+          "variants": 1,
+          "tripCount": 160,
+          "stops": 17,
+          "lengthKm": 8.86,
+          "stats": {
+            "observations": 444,
+            "matched": 444,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.377189140424761,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Podu Roș (2)",
+          "variants": 1,
+          "tripCount": 159,
+          "stops": 16,
+          "lengthKm": 9.3,
+          "stats": {
+            "observations": 466,
+            "matched": 466,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0998794910435077,
+            "roundaboutSegs": 8,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "30",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Bucium",
+          "variants": 1,
+          "tripCount": 188,
+          "stops": 20,
+          "lengthKm": 10.81,
+          "stats": {
+            "observations": 540,
+            "matched": 540,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.7661900130026478,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Canta",
+          "variants": 1,
+          "tripCount": 191,
+          "stops": 19,
+          "lengthKm": 11.03,
+          "stats": {
+            "observations": 540,
+            "matched": 540,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.72119800941791,
+            "roundaboutSegs": 48,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "30b",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Bucium",
+          "variants": 1,
+          "tripCount": 34,
+          "stops": 23,
+          "lengthKm": 14.09,
+          "stats": {
+            "observations": 716,
+            "matched": 716,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.461527670832036,
+            "roundaboutSegs": 65,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "MALL MOLDOVA",
+          "variants": 1,
+          "tripCount": 34,
+          "stops": 22,
+          "lengthKm": 13.73,
+          "stats": {
+            "observations": 683,
+            "matched": 683,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.413883905921376,
+            "roundaboutSegs": 58,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "36",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Breazu",
+          "variants": 1,
+          "tripCount": 158,
+          "stops": 22,
+          "lengthKm": 11.77,
+          "stats": {
+            "observations": 583,
+            "matched": 583,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.4290579640883707,
+            "roundaboutSegs": 40,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Dacia",
+          "variants": 1,
+          "tripCount": 155,
+          "stops": 20,
+          "lengthKm": 11.09,
+          "stats": {
+            "observations": 554,
+            "matched": 554,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.3523009837690405,
+            "roundaboutSegs": 56,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "41",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Blocuri Ciurea",
+          "variants": 1,
+          "tripCount": 81,
+          "stops": 21,
+          "lengthKm": 10.85,
+          "stats": {
+            "observations": 549,
+            "matched": 549,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5645379250730307,
+            "roundaboutSegs": 38,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Piața Independenței",
+          "variants": 1,
+          "tripCount": 80,
+          "stops": 19,
+          "lengthKm": 10.53,
+          "stats": {
+            "observations": 526,
+            "matched": 526,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.4969018184112182,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "42",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "C.U.G. I",
+          "variants": 1,
+          "tripCount": 128,
+          "stops": 20,
+          "lengthKm": 10.84,
+          "stats": {
+            "observations": 540,
+            "matched": 540,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0281191622766577,
+            "roundaboutSegs": 30,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Copou",
+          "variants": 1,
+          "tripCount": 128,
+          "stops": 21,
+          "lengthKm": 11.06,
+          "stats": {
+            "observations": 548,
+            "matched": 548,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.986154806637979,
+            "roundaboutSegs": 18,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "43",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "C.U.G. I",
+          "variants": 1,
+          "tripCount": 161,
+          "stops": 21,
+          "lengthKm": 11.55,
+          "stats": {
+            "observations": 574,
+            "matched": 574,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0216189885550864,
+            "roundaboutSegs": 6,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Păcurari",
+          "variants": 1,
+          "tripCount": 162,
+          "stops": 22,
+          "lengthKm": 11.72,
+          "stats": {
+            "observations": 585,
+            "matched": 585,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.030263666049099,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "43c",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "C.U.G. I",
+          "variants": 1,
+          "tripCount": 27,
+          "stops": 24,
+          "lengthKm": 14.46,
+          "stats": {
+            "observations": 736,
+            "matched": 736,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0385266990468116,
+            "roundaboutSegs": 79,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "MALL MOLDOVA",
+          "variants": 1,
+          "tripCount": 27,
+          "stops": 25,
+          "lengthKm": 14.27,
+          "stats": {
+            "observations": 711,
+            "matched": 711,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.109214780858585,
+            "roundaboutSegs": 63,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "44",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Blocuri Ciurea",
+          "variants": 2,
+          "tripCount": 79,
+          "stops": 26,
+          "lengthKm": 11.26,
+          "stats": {
+            "observations": 562,
+            "matched": 562,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5683477351865323,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Dacia",
+          "variants": 2,
+          "tripCount": 79,
+          "stops": 24,
+          "lengthKm": 11.92,
+          "stats": {
+            "observations": 595,
+            "matched": 595,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6982050001348012,
+            "roundaboutSegs": 5,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "46",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Bucium",
+          "variants": 1,
+          "tripCount": 132,
+          "stops": 22,
+          "lengthKm": 12.21,
+          "stats": {
+            "observations": 612,
+            "matched": 612,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.850910793190087,
+            "roundaboutSegs": 6,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Păcurari",
+          "variants": 1,
+          "tripCount": 131,
+          "stops": 23,
+          "lengthKm": 12.21,
+          "stats": {
+            "observations": 612,
+            "matched": 612,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0290466295734295,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "47",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Tătărași Sud",
+          "variants": 1,
+          "tripCount": 107,
+          "stops": 21,
+          "lengthKm": 10.43,
+          "stats": {
+            "observations": 519,
+            "matched": 519,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.5989940858263756,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Dacia",
+          "variants": 1,
+          "tripCount": 107,
+          "stops": 19,
+          "lengthKm": 10.34,
+          "stats": {
+            "observations": 517,
+            "matched": 517,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.2832490010907907,
+            "roundaboutSegs": 28,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "48",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Complex Roua Residence",
+          "variants": 1,
+          "tripCount": 24,
+          "stops": 6,
+          "lengthKm": 2.39,
+          "stats": {
+            "observations": 121,
+            "matched": 121,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1046798799645352,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Tg. Cucu",
+          "variants": 1,
+          "tripCount": 24,
+          "stops": 6,
+          "lengthKm": 2.33,
+          "stats": {
+            "observations": 117,
+            "matched": 117,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.018941325276224,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "50",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Aeroport",
+          "variants": 1,
+          "tripCount": 48,
+          "stops": 5,
+          "lengthKm": 7.92,
+          "stats": {
+            "observations": 379,
+            "matched": 379,
+            "noCandidates": 0,
+            "viterbiBreaks": 2,
+            "bridged": 0,
+            "rawStretchCount": 2,
+            "rawMeters": 40,
+            "meanError": 3.10399524726133,
+            "roundaboutSegs": 8,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Gară",
+          "variants": 1,
+          "tripCount": 48,
+          "stops": 4,
+          "lengthKm": 8.14,
+          "stats": {
+            "observations": 389,
+            "matched": 389,
+            "noCandidates": 0,
+            "viterbiBreaks": 2,
+            "bridged": 0,
+            "rawStretchCount": 2,
+            "rawMeters": 40,
+            "meanError": 3.2494920816894117,
+            "roundaboutSegs": 20,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "52",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Copou",
+          "variants": 1,
+          "tripCount": 216,
+          "stops": 10,
+          "lengthKm": 6.24,
+          "stats": {
+            "observations": 311,
+            "matched": 311,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7439106890483609,
+            "roundaboutSegs": 43,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Piața Alexandru cel Bun",
+          "variants": 1,
+          "tripCount": 217,
+          "stops": 10,
+          "lengthKm": 5.84,
+          "stats": {
+            "observations": 289,
+            "matched": 289,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8202147707736234,
+            "roundaboutSegs": 49,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "54",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Bulevardul C.A.Rosetti",
+          "variants": 1,
+          "tripCount": 28,
+          "stops": 14,
+          "lengthKm": 10.08,
+          "stats": {
+            "observations": 505,
+            "matched": 505,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1749654087822825,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Tg. Cucu",
+          "variants": 1,
+          "tripCount": 28,
+          "stops": 13,
+          "lengthKm": 10.33,
+          "stats": {
+            "observations": 516,
+            "matched": 516,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2569466160377278,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "101",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Str. Ionesti - Dorobant",
+          "variants": 1,
+          "tripCount": 29,
+          "stops": 14,
+          "lengthKm": 9.02,
+          "stats": {
+            "observations": 451,
+            "matched": 451,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7863939973031513,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Tg. Cucu",
+          "variants": 1,
+          "tripCount": 29,
+          "stops": 13,
+          "lengthKm": 9.45,
+          "stats": {
+            "observations": 474,
+            "matched": 474,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8995474473640985,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "102",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Rond Aroneanu",
+          "variants": 1,
+          "tripCount": 30,
+          "stops": 11,
+          "lengthKm": 5.36,
+          "stats": {
+            "observations": 269,
+            "matched": 269,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.614480120045013,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Tg. Cucu",
+          "variants": 1,
+          "tripCount": 30,
+          "stops": 10,
+          "lengthKm": 5.91,
+          "stats": {
+            "observations": 296,
+            "matched": 296,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8606525961086653,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "103",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Baza Sportiva Sorogari",
+          "variants": 1,
+          "tripCount": 29,
+          "stops": 9,
+          "lengthKm": 5.17,
+          "stats": {
+            "observations": 261,
+            "matched": 261,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9109252216601404,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Tg. Cucu",
+          "variants": 1,
+          "tripCount": 29,
+          "stops": 9,
+          "lengthKm": 5.42,
+          "stats": {
+            "observations": 272,
+            "matched": 272,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.8813479052641641,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "104",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Pod Emil - Rediu Aldei",
+          "variants": 1,
+          "tripCount": 29,
+          "stops": 5,
+          "lengthKm": 4.08,
+          "stats": {
+            "observations": 206,
+            "matched": 206,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9284798052941414,
+            "roundaboutSegs": 1,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Rond Aroneanu",
+          "variants": 1,
+          "tripCount": 29,
+          "stops": 5,
+          "lengthKm": 4.07,
+          "stats": {
+            "observations": 206,
+            "matched": 206,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9394689236572238,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "202",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "City View Paun",
+          "variants": 1,
+          "tripCount": 33,
+          "stops": 17,
+          "lengthKm": 11.61,
+          "stats": {
+            "observations": 582,
+            "matched": 582,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7804590382169867,
+            "roundaboutSegs": 6,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Podu Roș (2)",
+          "variants": 1,
+          "tripCount": 34,
+          "stops": 17,
+          "lengthKm": 11.6,
+          "stats": {
+            "observations": 580,
+            "matched": 580,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7590998497469774,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "203",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Rezidential Decoflor - Visan",
+          "variants": 1,
+          "tripCount": 18,
+          "stops": 8,
+          "lengthKm": 5.08,
+          "stats": {
+            "observations": 257,
+            "matched": 257,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9845593000855075,
+            "roundaboutSegs": 6,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Podu Roș (2)",
+          "variants": 1,
+          "tripCount": 19,
+          "stops": 9,
+          "lengthKm": 5.09,
+          "stats": {
+            "observations": 254,
+            "matched": 254,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9726858254311332,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "301",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Concretica - Dumbrava",
+          "variants": 1,
+          "tripCount": 14,
+          "stops": 16,
+          "lengthKm": 8.59,
+          "stats": {
+            "observations": 431,
+            "matched": 431,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.71268742724372,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "C.U.G. I",
+          "variants": 1,
+          "tripCount": 14,
+          "stops": 15,
+          "lengthKm": 8.45,
+          "stats": {
+            "observations": 422,
+            "matched": 422,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.7202039625553018,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "401",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Scoala Rusenii Noi",
+          "variants": 1,
+          "tripCount": 19,
+          "stops": 17,
+          "lengthKm": 11.05,
+          "stats": {
+            "observations": 552,
+            "matched": 552,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.2127019894634845,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Tătărași Sud",
+          "variants": 1,
+          "tripCount": 20,
+          "stops": 17,
+          "lengthKm": 11.03,
+          "stats": {
+            "observations": 553,
+            "matched": 553,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.168752465215506,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "501",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Platou Vorovesti",
+          "variants": 1,
+          "tripCount": 17,
+          "stops": 15,
+          "lengthKm": 10.51,
+          "stats": {
+            "observations": 525,
+            "matched": 525,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0491277020108722,
+            "roundaboutSegs": 23,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Podu Ros (4)",
+          "variants": 1,
+          "tripCount": 25,
+          "stops": 15,
+          "lengthKm": 11.27,
+          "stats": {
+            "observations": 557,
+            "matched": 557,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0944103059415995,
+            "roundaboutSegs": 36,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "501b",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Ferma Liliac",
+          "variants": 1,
+          "tripCount": 19,
+          "stops": 19,
+          "lengthKm": 12.82,
+          "stats": {
+            "observations": 638,
+            "matched": 638,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.8823605096753794,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Podu Ros (4)",
+          "variants": 1,
+          "tripCount": 20,
+          "stops": 20,
+          "lengthKm": 13.42,
+          "stats": {
+            "observations": 680,
+            "matched": 680,
+            "noCandidates": 0,
+            "viterbiBreaks": 1,
+            "bridged": 0,
+            "rawStretchCount": 1,
+            "rawMeters": 14,
+            "meanError": 0.9356791167112799,
+            "roundaboutSegs": 8,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "502",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Str. Parcului - Ciurbesti",
+          "variants": 1,
+          "tripCount": 26,
+          "stops": 12,
+          "lengthKm": 6.23,
+          "stats": {
+            "observations": 311,
+            "matched": 311,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1201788086861826,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "C.U.G. I",
+          "variants": 1,
+          "tripCount": 26,
+          "stops": 11,
+          "lengthKm": 6.21,
+          "stats": {
+            "observations": 310,
+            "matched": 310,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2308034123862779,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "503",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Str. Mazuru-Valea Adanca",
+          "variants": 1,
+          "tripCount": 12,
+          "stops": 9,
+          "lengthKm": 5.06,
+          "stats": {
+            "observations": 255,
+            "matched": 255,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.3814869524641165,
+            "roundaboutSegs": 8,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "C.U.G. I",
+          "variants": 1,
+          "tripCount": 13,
+          "stops": 9,
+          "lengthKm": 4.9,
+          "stats": {
+            "observations": 244,
+            "matched": 244,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.395146086393898,
+            "roundaboutSegs": 11,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "503b",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "str. Prof. Anton Nitu",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 13,
+          "lengthKm": 7.31,
+          "stats": {
+            "observations": 367,
+            "matched": 367,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1259011453564935,
+            "roundaboutSegs": 8,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "C.U.G. I",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 11,
+          "lengthKm": 6.76,
+          "stats": {
+            "observations": 337,
+            "matched": 337,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0786109354303643,
+            "roundaboutSegs": 11,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "601",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Popricani (1)",
+          "variants": 1,
+          "tripCount": 36,
+          "stops": 10,
+          "lengthKm": 15.86,
+          "stats": {
+            "observations": 794,
+            "matched": 794,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.25329135343823,
+            "roundaboutSegs": 5,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Tg. Cucu",
+          "variants": 1,
+          "tripCount": 36,
+          "stops": 19,
+          "lengthKm": 15.94,
+          "stats": {
+            "observations": 798,
+            "matched": 798,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0964162712142165,
+            "roundaboutSegs": 5,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "701",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Capat Horlesti",
+          "variants": 1,
+          "tripCount": 20,
+          "stops": 18,
+          "lengthKm": 12.82,
+          "stats": {
+            "observations": 643,
+            "matched": 643,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8355976118899824,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Copou",
+          "variants": 1,
+          "tripCount": 20,
+          "stops": 16,
+          "lengthKm": 12.76,
+          "stats": {
+            "observations": 640,
+            "matched": 640,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8367860066545918,
+            "roundaboutSegs": 5,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "702",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Copou",
+          "variants": 1,
+          "tripCount": 19,
+          "stops": 19,
+          "lengthKm": 13.21,
+          "stats": {
+            "observations": 662,
+            "matched": 662,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2024083854226904,
+            "roundaboutSegs": 3,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Pacurari",
+          "variants": 1,
+          "tripCount": 19,
+          "stops": 21,
+          "lengthKm": 13.43,
+          "stats": {
+            "observations": 673,
+            "matched": 673,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.260303427929263,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "801",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Goruni",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 19,
+          "lengthKm": 12.54,
+          "stats": {
+            "observations": 633,
+            "matched": 633,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.3004892168977766,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Podu Roș (2)",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 18,
+          "lengthKm": 13,
+          "stats": {
+            "observations": 651,
+            "matched": 651,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5925522010328035,
+            "roundaboutSegs": 8,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "802",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Rond Chicerea",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 23,
+          "lengthKm": 14.52,
+          "stats": {
+            "observations": 732,
+            "matched": 732,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1576887850371573,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Podu Roș (2)",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 21,
+          "lengthKm": 15.03,
+          "stats": {
+            "observations": 752,
+            "matched": 752,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.4242909147840892,
+            "roundaboutSegs": 8,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "802b",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Rond Chicerea",
+          "variants": 1,
+          "tripCount": 11,
+          "stops": 25,
+          "lengthKm": 17.31,
+          "stats": {
+            "observations": 872,
+            "matched": 872,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0052039089278826,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Podu Roș (2)",
+          "variants": 1,
+          "tripCount": 10,
+          "stops": 24,
+          "lengthKm": 17.83,
+          "stats": {
+            "observations": 893,
+            "matched": 893,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.234937746379147,
+            "roundaboutSegs": 8,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "803",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Str. Principala - Opriseni",
+          "variants": 1,
+          "tripCount": 12,
+          "stops": 18,
+          "lengthKm": 17.22,
+          "stats": {
+            "observations": 866,
+            "matched": 866,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.6136639115328847,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Rond Țuțora",
+          "variants": 1,
+          "tripCount": 12,
+          "stops": 15,
+          "lengthKm": 29.46,
+          "stats": {
+            "observations": 1524,
+            "matched": 1524,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.44146518131407797,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "901",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Str. Bacinschi",
+          "variants": 1,
+          "tripCount": 28,
+          "stops": 19,
+          "lengthKm": 11.26,
+          "stats": {
+            "observations": 562,
+            "matched": 562,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.749205689380301,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Primaria Valea Lupului - Valea Lupului",
+          "variants": 1,
+          "tripCount": 27,
+          "stops": 18,
+          "lengthKm": 8.88,
+          "stats": {
+            "observations": 443,
+            "matched": 443,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.8641904945975636,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "902",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Canta",
+          "variants": 1,
+          "tripCount": 25,
+          "stops": 19,
+          "lengthKm": 8.1,
+          "stats": {
+            "observations": 406,
+            "matched": 406,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.113348508106968,
+            "roundaboutSegs": 10,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Str. Rubinului - Valea Lupului",
+          "variants": 1,
+          "tripCount": 23,
+          "stops": 18,
+          "lengthKm": 7.72,
+          "stats": {
+            "observations": 386,
+            "matched": 386,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.375184902226907,
+            "roundaboutSegs": 3,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "1",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "Copou",
+          "headsign": "Copou",
+          "variants": 1,
+          "tripCount": 94,
+          "stops": 32,
+          "lengthKm": 17.15,
+          "stats": {
+            "observations": 864,
+            "matched": 864,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.102236365840971,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "3",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Gară",
+          "variants": 1,
+          "tripCount": 220,
+          "stops": 17,
+          "lengthKm": 7.78,
+          "stats": {
+            "observations": 392,
+            "matched": 392,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.27495822568675,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Dancu",
+          "variants": 1,
+          "tripCount": 219,
+          "stops": 15,
+          "lengthKm": 7.24,
+          "stats": {
+            "observations": 365,
+            "matched": 365,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.372593518802657,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "5",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Rond Țuțora",
+          "variants": 1,
+          "tripCount": 144,
+          "stops": 16,
+          "lengthKm": 9.5,
+          "stats": {
+            "observations": 470,
+            "matched": 470,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.0618582850398823,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Dacia",
+          "variants": 1,
+          "tripCount": 145,
+          "stops": 15,
+          "lengthKm": 9.47,
+          "stats": {
+            "observations": 476,
+            "matched": 476,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.185573148247677,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "6",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Tg. Cucu",
+          "variants": 1,
+          "tripCount": 214,
+          "stops": 11,
+          "lengthKm": 6.18,
+          "stats": {
+            "observations": 305,
+            "matched": 305,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.5864488786894726,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Dacia",
+          "variants": 1,
+          "tripCount": 214,
+          "stops": 12,
+          "lengthKm": 6.3,
+          "stats": {
+            "observations": 319,
+            "matched": 319,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.7450891899935823,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "7",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Rond Țuțora",
+          "variants": 1,
+          "tripCount": 145,
+          "stops": 17,
+          "lengthKm": 11.06,
+          "stats": {
+            "observations": 556,
+            "matched": 556,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.063720192499851,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Canta",
+          "variants": 1,
+          "tripCount": 145,
+          "stops": 18,
+          "lengthKm": 10.9,
+          "stats": {
+            "observations": 547,
+            "matched": 547,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.813895558379507,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "8",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Rond Țuțora",
+          "variants": 1,
+          "tripCount": 142,
+          "stops": 17,
+          "lengthKm": 9.65,
+          "stats": {
+            "observations": 484,
+            "matched": 484,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.7510255734330937,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Copou",
+          "variants": 1,
+          "tripCount": 139,
+          "stops": 18,
+          "lengthKm": 9.63,
+          "stats": {
+            "observations": 486,
+            "matched": 486,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.9036548231693,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "9",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "SPITAL ELYTIS",
+          "variants": 1,
+          "tripCount": 277,
+          "stops": 16,
+          "lengthKm": 9.83,
+          "stats": {
+            "observations": 493,
+            "matched": 493,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.5869975381268615,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Copou",
+          "variants": 1,
+          "tripCount": 280,
+          "stops": 16,
+          "lengthKm": 9.76,
+          "stats": {
+            "observations": 496,
+            "matched": 496,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.5320802134943685,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "11",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Tătărași Nord",
+          "variants": 1,
+          "tripCount": 242,
+          "stops": 20,
+          "lengthKm": 10.63,
+          "stats": {
+            "observations": 529,
+            "matched": 529,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.8550400314552444,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Dacia",
+          "variants": 1,
+          "tripCount": 241,
+          "stops": 18,
+          "lengthKm": 10.49,
+          "stats": {
+            "observations": 528,
+            "matched": 528,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.715232561237517,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "13",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "Copou",
+          "headsign": "Copou",
+          "variants": 1,
+          "tripCount": 93,
+          "stops": 31,
+          "lengthKm": 17.14,
+          "stats": {
+            "observations": 865,
+            "matched": 865,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.084923070586632,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    }
+  ]
+}
