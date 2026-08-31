@@ -17,6 +17,13 @@ import { matchShape, extendToStops } from './lib/hmm.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 
+// The two ALL-CAPS names in an otherwise properly-cased feed, by exact match
+// (METRO and the dotted initialisms C.U.G./C.F.S./I.P.A. are left alone).
+const NAME_FIX = {
+  'MALL MOLDOVA': 'Mall Moldova',
+  'SPITAL ELYTIS': 'Spital Elytis',
+};
+
 // No second label line here: Romanian is written in the Latin alphabet, so a
 // street name needs no transliteration and no name:*-Latn lookup — unlike the
 // Greek, Bulgarian and Serbian siblings. Stop names arrive properly cased and
@@ -431,6 +438,7 @@ async function processMode(cfg) {
       // SCTP publishes its stop names properly cased and accented, so
       // titleCase stays off and no case dictionary runs here.
       if (feed.titleCase) name = titleCase(name);
+      name = NAME_FIX[name] || name;
       const fix = STOP_FIX[feed.tag + ':' + s.stop_id];
       stopsById.set(feed.tag + ':' + s.stop_id, {
         name,
